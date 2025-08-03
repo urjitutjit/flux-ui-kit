@@ -10,7 +10,7 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      content: "FluxSaaS transformed our entire workflow. We've seen a 300% increase in productivity and our team collaboration has never been better. The platform is intuitive and powerful.",
+      content: "SaasPage transformed our entire workflow. We've seen a 300% increase in productivity and our team collaboration has never been better. The platform is intuitive and powerful.",
       author: "Sarah Chen",
       role: "VP of Operations",
       company: "TechCorp",
@@ -28,7 +28,7 @@ const Testimonials = () => {
     },
     {
       id: 3,
-      content: "Security was our biggest concern, but FluxSaaS exceeded all expectations. SOC 2 compliance and enterprise-grade protection give us complete peace of mind.",
+      content: "Security was our biggest concern, but SaasPage exceeded all expectations. SOC 2 compliance and enterprise-grade protection give us complete peace of mind.",
       author: "Emily Watson",
       role: "CTO",
       company: "CloudScale",
@@ -87,7 +87,7 @@ const Testimonials = () => {
             </span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Don't just take our word for it. See how FluxSaaS is transforming businesses across industries.
+            Don't just take our word for it. See how SaasPage is transforming businesses across industries.
           </p>
         </div>
 

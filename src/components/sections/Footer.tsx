@@ -64,7 +64,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center shadow-glow">
                 <Zap className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold text-foreground">FluxSaaS</span>
+              <span className="text-xl font-bold text-foreground">SaasPage</span>
             </div>
             
             <p className="text-muted-foreground mb-6 max-w-md">
@@ -83,7 +83,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3 text-sm text-muted-foreground">
                 <Mail className="w-4 h-4" />
-                <span>hello@fluxsaas.com</span>
+                <span>hello@saaspage.com</span>
               </div>
             </div>
 
@@ -152,7 +152,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-sm text-muted-foreground mb-4 md:mb-0">
-              © 2024 FluxSaaS. All rights reserved.
+              © 2024 SaasPage. All rights reserved.
             </div>
             <div className="flex items-center space-x-6 text-sm text-muted-foreground">
               <span>Built with ❤️ for modern teams</span>

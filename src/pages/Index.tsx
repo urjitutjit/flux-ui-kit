@@ -28,7 +28,7 @@ const Index = () => {
           <CtaBanner
             variant="gradient"
             title="Ready to transform your workflow?"
-            description="Join thousands of companies already scaling with FluxSaaS. Start your free trial today and experience the difference."
+            description="Join thousands of companies already scaling with SaasPage. Start your free trial today and experience the difference."
             primaryText="Start Free Trial"
             secondaryText="Book Demo"
             onPrimaryClick={() => console.log("Start trial clicked")}
@@ -49,7 +49,7 @@ const Index = () => {
           <CtaBanner
             variant="glass"
             title="Questions? We're here to help"
-            description="Our team of experts is ready to help you get started and make the most of your FluxSaaS experience."
+            description="Our team of experts is ready to help you get started and make the most of your SaasPage experience."
             primaryText="Contact Support"
             secondaryText="View Documentation"
             onPrimaryClick={() => console.log("Contact support clicked")}

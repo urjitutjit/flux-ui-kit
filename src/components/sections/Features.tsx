@@ -118,7 +118,7 @@ const Features = () => {
             </div>
             <div className="text-left">
               <p className="text-sm font-medium text-foreground">Join 50,000+ companies</p>
-              <p className="text-xs text-muted-foreground">Already scaling with FluxSaaS</p>
+              <p className="text-xs text-muted-foreground">Already scaling with SaasPage</p>
             </div>
           </div>
         </div>
